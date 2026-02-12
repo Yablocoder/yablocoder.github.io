@@ -14,10 +14,10 @@
 где n — номер очереди
 
 **Отсюда получатся, что:**<br>
-0 очередь — 10 руб/мин<br>
-1 очередь — 20 руб/мин<br>
-2 очередь — 40 руб/мин<br>
-3 очередь — 80 руб/мин<br>
+- 0 очередь — 10 руб/мин<br>
+- 1 очередь — 20 руб/мин<br>
+- 2 очередь — 40 руб/мин<br>
+- 3 очередь — 80 руб/мин<br>
 И так далее...
 
 *Оставляю за собой право по умолчанию смотреть в ускорении x1.25.*
@@ -40,9 +40,9 @@ Cумма доната за видео + 10%
 В случае, если нарушения были найдены во время просмотра или перезаказанное видео видео тоже подходит под категорию запрещённых, сразу перехожу к следующему видео, без права использовать задоначенную сумму для другого заказа.*
 
 ## Ссылки
-[Канал c хайлайтами](https://www.youtube.com/@YablocoderHighlights)<br>
-[Стримы на YouTube](http://youtube.com/@Yablocoder)<br>
-[Twitch](https://www.twitch.tv/yablocoder)<br>
-[Kick](https://kick.com/yablocoder)<br>
-[Telegram канал](https://t.me/yablocoder)<br>
-[Telegram чат](https://t.me/kustitchat)<br>
+- [Канал c хайлайтами](https://www.youtube.com/@YablocoderHighlights)<br>
+- [Стримы на YouTube](http://youtube.com/@Yablocoder)<br>
+- [Twitch](https://www.twitch.tv/yablocoder)<br>
+- [Kick](https://kick.com/yablocoder)<br>
+- [Telegram канал](https://t.me/yablocoder)<br>
+- [Telegram чат](https://t.me/kustitchat)<br>
