@@ -1,5 +1,3 @@
-# Яблокодер
-
 # Донат
 [Donation Alerts](https://www.donationalerts.com/r/yablocoder)<br>
 [Donate Pay](https://donatepay.ru/don/yablocoder)<br>
