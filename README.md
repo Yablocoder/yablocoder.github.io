@@ -39,3 +39,10 @@ Cумма доната за видео + 10%
 Если был заказан подобный контент по ошибке, до начала просмотра даётся 1 попытка на перезаказ.<br><br>
 В случае, если нарушения были найдены во время просмотра или перезаказанное видео видео тоже подходит под категорию запрещённых, сразу перехожу к следующему видео, без права использовать задоначенную сумму для другого заказа.
 
+## Ссылки
+[Канал хайлайтами](https://www.youtube.com/@YablocoderHighlights)
+[Стримы на YouTube](http://youtube.com/@Yablocoder)
+[Twitch](https://www.twitch.tv/yablocoder)
+[Kick](https://kick.com/yablocoder)
+[Telegram канал](https://t.me/yablocoder)
+[Telegram чат](https://t.me/kustitchat)
